@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/ianscateni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianscateni" height="30" width="40" /></a>
 <a href="https://fb.com/ianscateni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianscateni" height="30" width="40" /></a>
 <a href="https://instagram.com/ianscateni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianscateni" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ianscateni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ianscateni" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5a1g1Q4OGtlLnCO7rA1hUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ianscateni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
