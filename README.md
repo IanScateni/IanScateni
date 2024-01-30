@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando como **desarrollador Fullstack en una empresa**
 
-- 👯 Soy fundador de **NowSoft**
+- 👯 Soy fundador de **Dynasty Software**
 
 - 🤝 Trabajo como freelance **Para diferentes agencias**
 
