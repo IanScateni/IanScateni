@@ -1,12 +1,6 @@
 <h1 align="center">Hola 👋, Soy Ian Scateni</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 Estoy trabajando como **desarrollador Fullstack en una empresa**
-
-- 👯 Soy fundador de **Dynasty Software**
-
-- 🤝 Trabajo como freelance **Para diferentes agencias**
-
 - 📫 Escribeme a **ianscateni@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
