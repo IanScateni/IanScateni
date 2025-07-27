@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Scateni</h1>
-<h3 align="center">Fullstack Developer | Software Engineer | Software Architect</h3>
+<h3 align="center">👨‍💻 Fullstack Developer  | 🧠 Software Engineer  | 🏗️ Software Architect</h3>
 
 <p align="center">
   Passionate about clean architecture, backend systems, and full stack development. <br/>
